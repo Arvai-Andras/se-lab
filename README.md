@@ -1,4 +1,5 @@
 # SE Spaceship
+[![review-proof](https://github.com/Arvai-Andras/se-lab/actions/workflows/review-proof.yml/badge.svg)](https://github.com/Arvai-Andras/se-lab/actions/workflows/review-proof.yml)
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
